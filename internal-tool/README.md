@@ -40,9 +40,9 @@ Files
 
 prd_excerpt.pdf: PRD sample with feature list and user stories.
 
-sql_queries.sql: Sample queries for allocation analysis.
+internal-tool_sql_queries.sql: Sample queries for allocation analysis.
 
-powerbi_description.md: Dashboard functionality description.
+internal-tool_powerbi_description.md: Dashboard functionality description.
 
 jira_burndown.pdf: Sprint burndown chart.
 
