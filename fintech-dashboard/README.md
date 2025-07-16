@@ -41,7 +41,7 @@ Files
 
 prd_excerpt.pdf: PRD sample with feature list and user stories.
 
-fintech-dashboard_queries.sql: Sample queries for fraud analysis.
+fintech-dashboard_sql_queries.sql: Sample queries for fraud analysis.
 
 fintech-dashboard_powerbi_description.md: Dashboard functionality description.
 
