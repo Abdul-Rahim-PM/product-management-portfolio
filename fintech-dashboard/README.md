@@ -41,9 +41,9 @@ Files
 
 prd_excerpt.pdf: PRD sample with feature list and user stories.
 
-sql_queries.sql: Sample queries for fraud analysis.
+fintech-dashboard_queries.sql: Sample queries for fraud analysis.
 
-powerbi_description.md: Dashboard functionality description.
+fintech-dashboard_powerbi_description.md: Dashboard functionality description.
 
 jira_burndown.pdf: Sprint burndown chart.
 
