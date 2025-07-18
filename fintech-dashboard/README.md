@@ -47,4 +47,4 @@ fintech-dashboard_powerbi_description.md: Dashboard functionality description.
 
 jira_burndown.pdf: Sprint burndown chart.
 
-uat_plan.pdf, stakeholder_deck.pdf, api_documentation.pdf, training_guide.pdf, risk_assessment.pdf, data_validation.xlsx, competitor_analysis.pdf: Additional deliverables.
+uat_plan.pdf, stakeholder_deck.pdf, api_documentation.pdf, training_guide.pdf, data_validation.xlsx
