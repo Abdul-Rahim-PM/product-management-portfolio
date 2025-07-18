@@ -3,7 +3,7 @@ https://www.linkedin.com/in/abdulsd/ | sidabdulrahim@gmail.com
 
 Overview
 
-As a Product Owner with 3+ years at Deloitte, I led Agile teams to deliver impactful solutions in healthcare, fintech, and internal process automation. This portfolio showcases my expertise in product management through 36 deliverables across three projects, demonstrating skills in Agile, SQL, Figma, Power BI, UI/UX, prioritization, and stakeholder management. Each project includes 12 artifacts (e.g., PRDs, UAT plans, training guides) that drove measurable outcomes, such as 15% no-show reductions and 25% fraud detection improvements.
+As a Product Owner with 3+ years at Deloitte, I led Agile teams to deliver impactful solutions in healthcare, fintech, and internal process automation. This portfolio showcases my expertise in product management through 48 deliverables across four projects, demonstrating skills in Agile, SQL, Figma, Power BI, UI/UX, prioritization, and stakeholder management. Each project includes 12 artifacts (e.g., PRDs, UAT plans, training guides) that drove measurable outcomes, such as 15% no-show reductions and 25% fraud detection improvements.
 
 Projects
 1. Patient Engagement Platform (Jul 2022 - Dec 2022)
@@ -35,6 +35,16 @@ Impact: Reduced staffing time by 30% (150 hours/month saved), improved onboardin
 Deliverables: PRD, SQL queries, Power BI description, UAT plan, stakeholder deck, training guide, database documentation, feedback report, risk assessment, data validation template, Jira burndown report, process optimization report.
 
 Directory: internal-tool
+
+4. Anaplan Models for Financial Planning (Jan 2025 - Jul 2025)
+
+Objective: Automated budgeting, forecasting, and reporting with IICS/Control-M integration.
+
+Impact: Reduced planning cycle time by 20%, improved data accuracy by 15%.
+
+Deliverables: PRD, SQL queries, Power BI description, UAT plan, stakeholder deck, training guide, integration documentation, feedback report, risk assessment, data validation template, Jira burndown report, process optimization report.
+
+Directory: [anaplan-models](anaplan-models/README.md)
 
 Skills Demonstrated
 
